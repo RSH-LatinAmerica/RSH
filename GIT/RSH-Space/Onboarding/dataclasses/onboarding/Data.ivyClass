@@ -1,0 +1,4 @@
+Data #class
+onboarding #namespace
+empresa String #field
+empresa PERSISTENT #fieldModifier
